@@ -1,7 +1,6 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+فایل ./index.html
+- بیس یا پایه فایل html هستش
+- یک تگ بادی هستش که داخل ان یک هدر است
+- یک ایدی به نام App ایجاد شده است
+- در لاین 13 یک المنت به نام اسکریپت یک فایلی رو معرفی کرده که در مسیر src/main.js/. قرار داده میشود
+_______________________________________________________________________________________________________________________________________________________________________________________
