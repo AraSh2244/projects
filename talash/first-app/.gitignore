@@ -3,6 +3,3 @@ node_modules
 dist
 dist-ssr
 *.local
-*file.*
-*.mp3
-!voice.mp3
